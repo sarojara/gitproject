@@ -1,3 +1,4 @@
 Hello
+Point
 I am going
 Hi
